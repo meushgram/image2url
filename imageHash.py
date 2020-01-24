@@ -4,3 +4,4 @@ hash = imagehash.average_hash(Image.open('/Users/dhanushkumar/Desktop/Screenshot
 print(' Hash is + {}'.format(hash))
 otherhash = imagehash.average_hash(Image.open('/Users/dhanushkumar/Desktop/Screenshot 2020-01-20 at 10.53.47 AM.png'))
 print(' Hash is + {}'.format(otherhash))
+#test
